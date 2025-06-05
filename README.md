@@ -1,1 +1,1 @@
-![privew](/priview.png)
+![privew](/preview.png)
