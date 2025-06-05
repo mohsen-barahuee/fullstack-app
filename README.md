@@ -1,5 +1,7 @@
 # Fullstack App
 
+###Demo Preview
+[Link Text](https://buean-torento.liara.run/)
 A full-stack web application with a React.js frontend and a Node.js + Express backend.
 
 ![App Preview](./preview.png)
