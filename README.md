@@ -1,1 +1,1 @@
-![privew](/preview.png)
+![privew](/thum.png)
